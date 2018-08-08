@@ -1,6 +1,39 @@
 Enter command (a,f,g,p,q, h for Help)> Enter student ID: Enter credit points: Enter WAM: Student record added.
 Enter command (a,f,g,p,q, h for Help)> Enter student ID: Enter credit points: Enter WAM: Student record added.
+Enter command (a,f,g,p,q, h for Help)> Enter student ID: Enter credit points: Enter WAM: Student record added.
+Enter command (a,f,g,p,q, h for Help)> Number of records: 3
+Average WAM: 85.000
+Average weighted WAM: 87.500
+Enter command (a,f,g,p,q, h for Help)> Enter student ID: Enter credit points: Enter WAM: Student record added.
+Enter command (a,f,g,p,q, h for Help)> Enter student ID: Enter credit points: Enter WAM: Student record added.
+Enter command (a,f,g,p,q, h for Help)> Enter student ID: No record found.
+Enter command (a,f,g,p,q, h for Help)> Enter student ID: ------------------------
+Student zID: z5555555
+Credits: 200
+Level of performance: HD
+------------------------
+Enter command (a,f,g,p,q, h for Help)> Number of records: 5
+Average WAM: 75.000
+Average weighted WAM: 76.333
+Enter command (a,f,g,p,q, h for Help)> Enter student ID: Enter credit points: Enter WAM: Student record updated.
+Enter command (a,f,g,p,q, h for Help)> Number of records: 5
+Average WAM: 68.000
+Average weighted WAM: 69.118
+Enter command (a,f,g,p,q, h for Help)> Enter student ID: Enter credit points: Enter WAM: Student record updated.
+Enter command (a,f,g,p,q, h for Help)> Number of records: 5
+Average WAM: 68.000
+Average weighted WAM: 69.118
 Enter command (a,f,g,p,q, h for Help)> ------------------------
+Student zID: z1111111
+Credits: 200
+Level of performance: PS
+------------------------
+------------------------
+Student zID: z2222222
+Credits: 300
+Level of performance: CR
+------------------------
+------------------------
 Student zID: z3333333
 Credits: 100
 Level of performance: DN
@@ -10,14 +43,9 @@ Student zID: z5555555
 Credits: 200
 Level of performance: HD
 ------------------------
-Enter command (a,f,g,p,q, h for Help)> ------------------------
-Student zID: z3333333
-Credits: 100
-Level of performance: DN
 ------------------------
-------------------------
-Student zID: z5555555
-Credits: 200
-Level of performance: HD
+Student zID: z7777777
+Credits: 50
+Level of performance: PS
 ------------------------
 Enter command (a,f,g,p,q, h for Help)> Bye.

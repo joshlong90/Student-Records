@@ -1,0 +1,38 @@
+a		# add student record 1
+3333333			# student id
+100			# credit points
+75			# wam
+a		# add student record 2
+5555555
+200
+95
+a		# add student record 3
+1111111
+100
+85
+g		# get statistics
+a		# add student record 4
+2222222
+300
+65
+a		# add student record 5
+7777777
+50
+55
+f		# find student record with
+1234567			# student id 1234567
+f		# find student record with
+5555555			# student id 5555555
+g		# get statistics
+a		# add student record 3
+1111111
+200
+50
+g		# get statistics
+a		# edit student record 5
+7777777
+50
+55
+g		# print statistics
+p		# print all records
+q		# quit
