@@ -1,0 +1,23 @@
+Enter command (a,f,g,p,q, h for Help)> Enter student ID: Enter credit points: Enter WAM: Student record added.
+Enter command (a,f,g,p,q, h for Help)> Enter student ID: Enter credit points: Enter WAM: Student record added.
+Enter command (a,f,g,p,q, h for Help)> ------------------------
+Student zID: z3333333
+Credits: 100
+Level of performance: DN
+------------------------
+------------------------
+Student zID: z5555555
+Credits: 200
+Level of performance: HD
+------------------------
+Enter command (a,f,g,p,q, h for Help)> ------------------------
+Student zID: z3333333
+Credits: 100
+Level of performance: DN
+------------------------
+------------------------
+Student zID: z5555555
+Credits: 200
+Level of performance: HD
+------------------------
+Enter command (a,f,g,p,q, h for Help)> Bye.
