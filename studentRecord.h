@@ -1,5 +1,4 @@
 // Student record header file ... Assignment 1 COMP9024 17s2
-// DO NOT CHANGE
 
 typedef struct {
    int   zID;

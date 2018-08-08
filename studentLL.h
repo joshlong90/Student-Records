@@ -1,5 +1,4 @@
 // Linked lists of student records header file ... Ass 1 COMP9024 17s2
-// DO NOT CHANGE
 
 typedef struct ListRep *List;
 

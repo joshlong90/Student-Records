@@ -27,7 +27,7 @@ float readFloat(void) {
       return f;
 }
 
-/*** Your code for stage 1 starts here ***/
+/*** code for adding records ***/
 
 int readValidID(void) {
    printf("Enter student ID: ");

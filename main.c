@@ -1,10 +1,10 @@
 /**
      main.c
 
-     Program supplied as a starting point for
      Assignment 1: Student record manager
-
+     Data Structures and Algorithms
      COMP9024 17s2
+
 **/
 #include <stdio.h>
 #include <stdlib.h>
@@ -64,7 +64,7 @@ int main(int argc, char *argv[]) {
    return 0;
 }
 
-/* Code for Stages 2 and 3 starts here */
+/* Code for dynamic version of program */
 
 void StudentLinkedListProcessing() {
    int op, ch;

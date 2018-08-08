@@ -5,7 +5,6 @@
 #include "studentRecord.h"
 
 // linked list node type
-// DO NOT CHANGE
 typedef struct node {
     studentRecordT data;
     struct node    *next;
@@ -20,7 +19,7 @@ typedef struct ListRep {
    int sumCredits;
 } ListRep;
 
-/*** Your code for stages 2 & 3 starts here ***/
+/*** linked list functions ***/
 
 // Time complexity: O(1)
 // Explanation: The time complexity of the function is constant (not dependent on n).
