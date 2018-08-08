@@ -2,3 +2,4 @@ studentRecord.o
 studentLL.o
 main.o
 main
+output.txt
